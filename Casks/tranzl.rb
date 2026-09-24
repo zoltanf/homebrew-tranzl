@@ -1,6 +1,6 @@
 cask "tranzl" do
-  version "0.2.0"
-  sha256 "62d2501d7c8ff55148e94e9389dbe65f3f07f6c02ad4f3154ce19368fa867094"
+  version "0.2.1"
+  sha256 "158865ffdd8bc69aa683476a0a00c3cd1635d1033fe90e810ce24745f94d4b52"
 
   url "https://github.com/zoltanf/tranzl/releases/download/v#{version}/Tranzl-#{version}-arm64.zip"
   name "Tranzl"
